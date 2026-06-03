@@ -1,4 +1,5 @@
 # Pathway-GEM-scripts
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20522432.svg)](https://doi.org/10.5281/zenodo.20522432)
 
 This repository contains pathway-specific GEM Colab notebooks for reduced symbiont metabolic modeling.  
 Scripts included:
